@@ -20,12 +20,17 @@ How to Install
 
 8. Run the wires throught the opening in the modded Twin Famicom cover
 
-9. Install the wires according to this diagram from 3DS Capture's site:          Note: It is CRUCIAL that you double check your work as one wrong connection can
-                                                                                       make your FDS Stick short circuit
-               Twin Famicom Port C                  End of RAM adapter cable     Note: See how I put my SNES connector upside down? Not only does it hide the
-          (looking at rear of console)             ##########################          ugly parts, it is also my guide so that I know which pins are being soldered
-  ## ## ## ## ## ## ## ## ## ## ## ## ## ###    ################################       to. The goal is to have the FDS Stick facing up so you can easily press the 
-  ##########################################    ###  C   A   8   6   4   2   ###       button for flipping disks
+9. Install the wires according to this diagram from 3DS Capture's site:
+
+Note: It is CRUCIAL that you double check your work as one wrong connection can make your FDS Stick short circuit
+
+Note: See how I put my SNES connector upside down? Not only does it hide the ugly parts, it is also my guide so that I know which pins are being soldered to
+      The goal is to have the FDS Stick facing up so you can easily press the button for flipping disks
+      
+               Twin Famicom Port C                  End of RAM adapter cable      
+          (looking at rear of console)             ##########################          
+  ## ## ## ## ## ## ## ## ## ## ## ## ## ###    ################################       
+  ##########################################    ###  C   A   8   6   4   2   ###       
   ##                                      ##    ###                          ###     
   ## 12 11 10  9  8  7  6  5  4  3  2  1  ##    ###  B   9   7   5   3   1   ###    
   ##########################################    ################################    

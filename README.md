@@ -4,7 +4,7 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 
 #### How to Install
 
-1. Start by printing the Modded Cover and FDS snap cover
+1. Start by printing the modded cover and snap cover
 ![](images/1.jpg "3D Prints")
 
 2. While that prints (roughly 3 hours) gather materials from the BOM
@@ -16,7 +16,7 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 4. Use sandpaper, a dremel, or a hot knife to remove the bump from the connector. Note if using a hot knife - pay attention! That's how mine came out so marred.
 [![Shave down the bump](https://github.com/DaisyAge12/FDSStick/blob/main/images/4.jpg "Shave down the bump")](https://github.com/DaisyAge12/FDSStick/blob/main/images/4.jpg "Shave down the bump")
 
-5. Remove locking back for SNES AV and insert the SNES connector into the FDS snap cover (orientation is not important)
+5. Remove locking back for SNES AV and insert the SNES connector into the snap cover (orientation is not important)
 [![Insertion](https://github.com/DaisyAge12/FDSStick/blob/main/images/5.jpg "Insertion")](https://github.com/DaisyAge12/FDSStick/blob/main/images/5.jpg "Insertion")
 [![Insertion Inverted](https://github.com/DaisyAge12/FDSStick/blob/main/images/6.jpg "Insertion Inverted")](https://github.com/DaisyAge12/FDSStick/blob/main/images/6.jpg "Insertion Inverted")
 
@@ -36,15 +36,19 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 **Note**: See how I put my SNES connector upside down? Not only does it hide the ugly parts, it is also my guide so that I know which pins are being soldered to
 The goal is to have the FDS Stick facing up so you can easily press the button for flipping disks
 ![](images/Pinout.png)		![](images/Pinout%202.png)
-	
-   10. Insert the ram adapter into the top row of holes in the Twin Famicom - Please see photos 10 & 11
+
+10. Insert the ram adapter into the top row of holes in the Twin Famicom - Please see photos 10 & 11
    ![](images/10.jpg)
    ![](images/11.jpg)
+   
+11. Carefully snap in the snap cover if you haven't already. If the snap cover isn't tight enough, a small dab of superglue will do the trick.
+**Remember** orientation is important! You dont want to fry your FDS Stick
     
-   11. Carefully snap in the FDS snap cover if you havent already - **Remember** orientation is important! You dont want to fry your FDS Stick
+12. Connect the white connector
+![](images/12.jpg)
     
-   12. Connect the white connector
-    
-   13. Carefully install the modded Famicom cover
-    
-   14. Plug in your FDS Stick and enjoy!
+13. Carefully install the modded Famicom cover
+![](images/13.jpg)
+![](images/14.jpg)
+
+14. Plug in your FDS Stick and enjoy!

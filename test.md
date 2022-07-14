@@ -36,9 +36,11 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 
 **Note**: See how I put my SNES connector upside down? Not only does it hide the ugly parts, it is also my guide so that I know which pins are being soldered to
 The goal is to have the FDS Stick facing up so you can easily press the button for flipping disks
-![](images/pinout.png) ![](images.pinout%202.png)
+![](images/Pinout.png)		![](images/Pinout%202.png)
 	
    10. Insert the ram adapter into the top row of holes in the Twin Famicom - Please see photos 10 & 11
+   ![](images/10.jpg)
+   ![](images/11.jpg)
     
    11. Carefully snap in the FDS snap cover if you havent already - **Remember** orientation is important! You dont want to fry your FDS Stick
     

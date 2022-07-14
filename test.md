@@ -5,10 +5,10 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 #### How to Install
 
 1. Start by printing the Modded Cover and FDS snap cover
-[![3D Prints](https://github.com/DaisyAge12/FDSStick/blob/main/images/1.jpg "3D Prints")](https://github.com/DaisyAge12/FDSStick/blob/main/images/1.jpg "3D Prints")
+![](images/1.jpg "3D Prints")
 
 2. While that prints (roughly 3 hours) gather materials from the BOM
-![](images/6.jpg)
+
 
 3. Refer to screenshots for proper installation of the JST connector and header pins
 [![PCB Assembly 1](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%201.png "PCB Assembly 1")](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%201.png "PCB Assembly 1")
@@ -36,22 +36,8 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 
 **Note**: See how I put my SNES connector upside down? Not only does it hide the ugly parts, it is also my guide so that I know which pins are being soldered to
 The goal is to have the FDS Stick facing up so you can easily press the button for flipping disks
-
-	Twin Famicom     RAM Adapter
-
-      1    -----------    A
-      2    -----------    C
-      3    -----------    B
-      4    -----------    9
-      5    -----------    7
-      6    -----------    5
-      7    -----------    3
-      8    -----------    1
-      9    -----------    4
-      10   -----------    2
-      11   -----------    6
-      12   (no connect)   8
-
+![](images/pinout)
+	
    10. Insert the ram adapter into the top row of holes in the Twin Famicom - Please see photos 10 & 11
     
    11. Carefully snap in the FDS snap cover if you havent already - **Remember** orientation is important! You dont want to fry your FDS Stick

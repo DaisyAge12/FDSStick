@@ -9,7 +9,6 @@ Rather than having to cut the plastic card cover or have an ugly wire hanging ar
 
 2. While that prints (roughly 3 hours) gather materials from the BOM
 
-
 3. Refer to screenshots for proper installation of the JST connector and header pins
 [![PCB Assembly 1](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%201.png "PCB Assembly 1")](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%201.png "PCB Assembly 1")
 [![PCB Assembly 2](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%202.png "PCB Assembly 2")](https://github.com/DaisyAge12/FDSStick/blob/main/images/PCB%20assembly%202.png "PCB Assembly 2")
